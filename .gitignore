@@ -1,0 +1,4 @@
+config.txt
+
+data/ = tidak akan memindahkan folder data kedalam area yang akan di commit
+*.exe tidak akan memindahkan file yang beformat exe 
